@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-23T17:13:14 IST" name="Suite" finished-at="2023-07-23T17:13:44 IST" duration-ms="30172">
+    <groups>
+    </groups>
+    <test started-at="2023-07-23T17:13:14 IST" name="Test" finished-at="2023-07-23T17:13:44 IST" duration-ms="30172">
+      <class name="test_Pkg.Facebook_test">
+        <test-method is-config="true" signature="beforeEachClass()[pri:0, instance:test_Pkg.Facebook_test@e50a6f6]" started-at="2023-07-23T17:13:14 IST" name="beforeEachClass" finished-at="2023-07-23T17:13:28 IST" duration-ms="14379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachClass -->
+        <test-method signature="facebookLoginTest()[pri:0, instance:test_Pkg.Facebook_test@e50a6f6]" started-at="2023-07-23T17:13:28 IST" name="facebookLoginTest" finished-at="2023-07-23T17:13:44 IST" duration-ms="15491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookLoginTest -->
+        <test-method signature="simpleTest()[pri:0, instance:test_Pkg.Facebook_test@e50a6f6]" started-at="2023-07-23T17:13:44 IST" name="simpleTest" finished-at="2023-07-23T17:13:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleTest -->
+        <test-method is-config="true" signature="afterEachClass()[pri:0, instance:test_Pkg.Facebook_test@e50a6f6]" started-at="2023-07-23T17:13:44 IST" name="afterEachClass" finished-at="2023-07-23T17:13:44 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachClass -->
+      </class> <!-- test_Pkg.Facebook_test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
